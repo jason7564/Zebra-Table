@@ -2,6 +2,7 @@
   padding: 0.25em;
   line-height: 2;
   overflow: hidden;
+  border-collapse: collapse;
   
   -webkit-column-count: 6;
   -webkit-column-gap: 10px;
